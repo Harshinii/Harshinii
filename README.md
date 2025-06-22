@@ -1,4 +1,4 @@
-<h1 align="left">Hello there 👋, I'm Harshini Selvaraj 👩🏽‍🏫 📊 </h1>
+<h1 align="left">Hello there 👋, I'm Harshini Selvaraj 👩‍💻 📊 </h1>
 I'm a passionate data analyst from India, living in Riyadh, Saudi Arabia. I have over 7️⃣ years of experience in analytics, business process improvement and consulting. I enjoy and specialize in data analyses 📈 around procurement, supply chain and financial data to drive strategic decision making for public and private sector companies.
 
 - 🌱 I’m currently learning **GenAI concepts**
